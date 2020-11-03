@@ -4,8 +4,8 @@ Group project due 2020.mm.dd
 <br><br>
 
 ## Group members:
+* LEBŒUF Antoine
 * HERNOT Anatole
-* LEBŒUF Antoine (?) idk yet
 
 <br><br>
 
