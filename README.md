@@ -10,4 +10,7 @@ Group project due 2020.mm.dd
 <br><br>
 
 ## To do:
-* Begin work
+* Question 5 (Antoine) : "TODO: faire des zooms sur les parties intéressantes"
+* Question 6.3 (Anatole) : Test de la fonction `solve_euler_explicit`
+* Question 7 (Anatole) :
+* Question 8 (Anatole) : Test de la fonction `solve_euler_implicit`
