@@ -17,3 +17,5 @@ Group project due 2020.mm.dd
 * Question 8.1 (Anatole) : Théorie
 * Question 8.3 (Anatole) : Test de la fonction `solve_euler_implicit`
 * Question 8.4 (Anatole) : Test sur les equations de Lotka-Volterra
+* Clean up repository
+* Final proofreading
