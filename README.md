@@ -10,5 +10,4 @@ Group project due 2021.01.10
 <br><br>
 
 ## To do:
-* Clean up repository (ETA: 10min)
-* Final proofreading (ETA: 20min)
+* All tasks have been completed.
